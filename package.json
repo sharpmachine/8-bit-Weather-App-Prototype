@@ -1,0 +1,22 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-apple-iphone-xr-red": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "8c532ce4-a837-4e98-bb24-34a802095313"
+	},
+	"author": "Jesse Kuntz",
+	"dependencies": {
+		"@framer/benjamin.icon-generator": "^1.18.0",
+		"@framer/benjamin.input": "^1.3.0",
+		"@framer/framer.lottie": "^1.1.0",
+		"@framer/jordanframer.font-files": "^1.12.0"
+	}
+}
